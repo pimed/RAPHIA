@@ -1,0 +1,5 @@
+{
+    "id": "aaa0043",
+    "moving": "dataset/histology/aaa0043/histology_aaa0043.json",
+    "fixed": "dataset/MRI/aaa0043_t2.nii.gz"
+}

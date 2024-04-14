@@ -1,0 +1,188 @@
+{
+        "slice01": {
+        "dpi_x": 3527.777777777778,
+        "dpi_y": 3527.777777777778,
+        "filename": "dataset/histology/aaa0043/images/aaa0043_A_x4.tiff",
+        "id": "aaa0043 A_x4",
+        "magnification": 2.5,
+        "regions": {
+            "region01": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_A_x4_annotation_01_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region09": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_A_x4_annotation_00_R255G000B000.tiff",
+                "id": "255",
+                "note": "Annotation 1"
+            }
+        },
+        "resolution_x_um": 7.2,
+        "resolution_y_um": 7.2,
+        "transform": {
+            "flip": 0,
+            "rotation_angle": 0
+        }
+    },
+    "slice02": {
+        "dpi_x": 3524.969021715974,
+        "dpi_y": 3524.969021715974,
+        "filename": "dataset/histology/aaa0043/images/aaa0043_B.tiff",
+        "id": "aaa0043 B",
+        "magnification": 2.498009542948328,
+        "regions": {
+            "region01": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_B_annotation_00_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region010": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_B_annotation_02_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region09": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_B_annotation_00_R255G000B000_01.tiff",
+                "id": "255",
+                "note": "capsule:partial capsule alignment; tissue around B4 trimmed"
+            }
+
+        },
+        "resolution_x_um": 7.205737084076597,
+        "resolution_y_um": 7.205737084076597,
+        "transform": {
+            "flip": 0,
+            "rotation_angle": 0
+        }
+    },
+    "slice03": {
+        "dpi_x": 3527.777777777778,
+        "dpi_y": 3527.777777777778,
+        "filename": "dataset/histology/aaa0043/images/aaa0043_B_x4.tiff",
+        "id": "aaa0043 B_x4",
+        "magnification": 2.5,
+        "regions": {
+            "region01": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_B_x4_annotation_01_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region09": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_B_x4_annotation_00_R255G000B000.tiff",
+                "id": "255",
+                "note": "Annotation 1"
+            }
+        },
+        "resolution_x_um": 7.2,
+        "resolution_y_um": 7.2,
+        "transform": {
+            "flip": 0,
+            "rotation_angle": 0
+        }
+    },
+    "slice04": {
+        "dpi_x": 3527.478297505746,
+        "dpi_y": 3527.478297505746,
+        "filename": "dataset/histology/aaa0043/images/aaa0043_C1C2C3C4.tiff",
+        "id": "aaa0043 C1C2C3C4",
+        "magnification": 2.4997877698859616,
+        "regions": {
+            "region01": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_C1C2C3C4_annotation_00_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region09": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_C1C2C3C4_annotation_00_R255G000B000_01.tiff",
+                "id": "255",
+                "note": "capsule:complete capsule alignment"
+            }
+        },
+        "resolution_x_um": 7.200611274620783,
+        "resolution_y_um": 7.200611274620783,
+        "transform": {
+            "flip": 0,
+            "rotation_angle": 0
+        }
+    },
+    "slice05": {
+        "dpi_x": 3526.9769201664776,
+        "dpi_y": 3526.9769201664776,
+        "filename": "dataset/histology/aaa0043/images/aaa0043_D.tiff",
+        "id": "aaa0043 D",
+        "magnification": 2.4994324631101024,
+        "regions": {
+            "region01": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_D_annotation_00_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region010": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_D_annotation_02_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region09": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_D_annotation_00_R255G000B000_01.tiff",
+                "id": "255",
+                "note": "capsule:partial capsule alignment"
+            }
+        },
+        "resolution_x_um": 7.201634877384196,
+        "resolution_y_um": 7.201634877384196,
+        "transform": {
+            "flip": 0,
+            "rotation_angle": 0
+        }
+    },
+    "slice06": {
+        "dpi_x": 3527.777777777778,
+        "dpi_y": 3527.777777777778,
+        "filename": "dataset/histology/aaa0043/images/aaa0043_D_x4.tiff",
+        "id": "aaa0043 D_x4",
+        "magnification": 2.5,
+        "regions": {
+            "region01": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_D_x4_annotation_01_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region09": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_D_x4_annotation_00_R255G000B000.tiff",
+                "id": "255",
+                "note": "Annotation 1"
+            }
+        },
+        "resolution_x_um": 7.2,
+        "resolution_y_um": 7.2,
+        "transform": {
+            "flip": 0,
+            "rotation_angle": 0
+        }
+    },
+    "slice07": {
+        "dpi_x": 3527.2565667644635,
+        "dpi_y": 3527.2565667644635,
+        "filename": "dataset/histology/aaa0043/images/aaa0043_ESlice.tiff",
+        "id": "aaa0043 ESlice",
+        "magnification": 2.4996306378645805,
+        "regions": {
+            "region01": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_ESlice_annotation_00_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region09": {
+                "filename": "dataset/histology/aaa0043/annotations/aaa0043_ESlice_annotation_00_R255G000B000_01.tiff",
+                "id": "255",
+                "note": "capsule:Partial capsule alignment"
+            }
+        },
+        "resolution_x_um": 7.2010639201387345,
+        "resolution_y_um": 7.2010639201387345,
+        "transform": {
+            "flip": 0,
+            "rotation_angle": 0
+        }
+    }
+}

@@ -1,0 +1,1 @@
+python test.py --dataroot ./datasets/prostate/processed --name MRI_Hist_gc_gan --model gc_cycle_gan --no_dropout --loadSize 224 --fineSize 224 --which_model_netG resnet_6blocks --batchSize 1 --gpu_ids 1 --which_direction BtoA --geometry affine
