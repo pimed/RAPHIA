@@ -1,7 +1,7 @@
 # RAPHIA
 Official implementation of: 
 
-Shao, Wei, et al. "RAPHIA: A deep learning pipeline for the registration of MRI and whole-mount histopathology images of the prostate."  [[Computers in Biology and Medicine)]((https://doi.org/10.1016/j.compbiomed.2024.108318))]
+Shao, Wei, et al. "RAPHIA: A deep learning pipeline for the registration of MRI and whole-mount histopathology images of the prostate."  [[Computers in Biology and Medicine)](https://doi.org/10.1016/j.compbiomed.2024.108318)]
 
 ![](RAPHIA_Pipeline.png)
 
