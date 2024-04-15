@@ -1,5 +1,5 @@
 # RAPHIA
-Official PyTorch implementation of: 
+Official implementation of: 
 
 [RAPHIA: A deep learning pipeline for the registration of MRI and whole-mount histopathology images of the prostate]([https://www.sciencedirect.com/science/article/pii/S089561112400003X](https://doi.org/10.1016/j.compbiomed.2024.108318)) (Computers in Biology and Medicine 2024)
 
