@@ -13,7 +13,7 @@ Shao, Wei, et al. "RAPHIA: A deep learning pipeline for the registration of MRI 
 
 ## Usage
 ### Step 1. Download the pre-trained model:
-* [Obtain the pre-trained models in this link](https://drive.google.com/drive/folders/1QrvcQHZupHxyvaZZFl1hZI3apN3uK7Vq?usp=sharing)
+* [Obtain the pre-trained models using this link](https://drive.google.com/drive/folders/1QrvcQHZupHxyvaZZFl1hZI3apN3uK7Vq?usp=sharing)
 
 ### Step 2. Set up the image registration json files and histology json files
 
